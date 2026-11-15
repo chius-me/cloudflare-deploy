@@ -1,4 +1,4 @@
-FROM node:26.1.0-trixie
+FROM node:26.13.0-trixie
 
 ARG WRANGLER_VERSION=latest
 
